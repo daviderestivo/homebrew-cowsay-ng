@@ -1,1 +1,1 @@
-# homebrew-cowsayng
+# homebrew-cowsay-ng
