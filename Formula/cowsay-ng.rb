@@ -3,7 +3,7 @@ class CowsayNg < Formula
   # Historical homepage: https://web.archive.org/web/20120225123719/www.nog.net/~tony/warez/cowsay.shtml
   homepage "https://github.com/daviderestivo/cowsay-ng"
   url "https://github.com/daviderestivo/cowsay-ng/archive/refs/tags/cowsay-3.04.tar.gz"
-  sha256 "d8b871332cfc1f0b6c16832ecca413ca0ac14d58626491a6733829e3d655878b"
+  sha256 "238fa16f257d382c0ae61d9f8e814620d5b8c605997d2892090c2f468b64d449"
   license "GPL-3.0"
   version "3.04"
   revision 1
