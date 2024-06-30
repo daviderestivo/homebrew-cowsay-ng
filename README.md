@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Homebrew Cowsay Formula to replace the [homebrew upstream one](https://github.com/Homebrew/homebrew-core/blob/189b328a63d1bc19047eca8b5843a62969d9a7cd/Formula/c/cowsay.rb) marked in 2023-11-22 as deprecated.
+Homebrew Cowsay Formula to replace the [homebrew upstream one](https://github.com/Homebrew/homebrew-core/blob/189b328a63d1bc19047eca8b5843a62969d9a7cd/Formula/c/cowsay.rb) marked as deprecated in 2023-11-22.
 
 ## Installation
 
