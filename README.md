@@ -18,6 +18,6 @@ brew install cowsay-ng
 
 The following installation options are available:
 
-| Option           | Description            |
-|------------------|------------------------|
-| --with-offensive | Include offensive cows |
+| Option                | Description            |
+|-----------------------|------------------------|
+| --with-offensive-cows | Include offensive cows |

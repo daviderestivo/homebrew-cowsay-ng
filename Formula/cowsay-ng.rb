@@ -8,11 +8,11 @@ class CowsayNg < Formula
   version "3.04"
   revision 1
 
-  option "with-offensive", "Include offensive cows"
+  option "with-offensive-cows", "Include offensive cows"
 
   def install
-    # Remove offensive content
-    if build.without? "offensive"
+    # Remove offensive cows
+    if build.without? "offensive-cows"
       %w[cows/sodomized.cow cows/telebears.cow].each do |file|
         rm file
         inreplace "Files.base", file, ""
